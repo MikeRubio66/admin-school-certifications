@@ -1,1 +1,1 @@
-API FastAPI para gestionar cursos CONOCER. Run: uvicorn app.main:app --reload
+API FastAPI para gestionar cursos. Run: uvicorn app.main:app --reload
